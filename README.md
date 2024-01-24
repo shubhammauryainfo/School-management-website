@@ -4,9 +4,9 @@
 
 ### This  web project done in html,css ,js,bootstrap, php,mysql,
 
-#### Vercel link / preview Link
+####  preview Link
  
- ---------adding soon--------------
+ (http://shreeacademy-project.free.nf)
  
 ### User Access and Authentication:
 
